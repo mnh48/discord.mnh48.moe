@@ -1,0 +1,30 @@
+Channel name:
+
+ڤراتورن-3
+
+
+Channel description:
+
+جاڠن هنتر لوچه دسيمبڠ اوتام
+
+
+Slowmode:
+
+Off
+
+
+NSFW Channel:
+
+Off
+
+
+Announcement Channel:
+
+Off
+
+
+Permissions:
+
+Sync permission with category first, and then change:
+Set to enable View Channel, Send Messages, Read Message History for the role related to those who choose to agree to Malay (Jawi) rule 2
+

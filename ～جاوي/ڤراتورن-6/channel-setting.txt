@@ -1,0 +1,30 @@
+Channel name:
+
+ڤراتورن-6
+
+
+Channel description:
+
+تندا سڤوٴيلر \ بيبيرن دالم 3 بولن تايڠن
+
+
+Slowmode:
+
+Off
+
+
+NSFW Channel:
+
+Off
+
+
+Announcement Channel:
+
+Off
+
+
+Permissions:
+
+Sync permission with category first, and then change:
+Set to enable View Channel, Send Messages, Read Message History for the role related to those who choose to agree to Malay (Jawi) rule 5
+
