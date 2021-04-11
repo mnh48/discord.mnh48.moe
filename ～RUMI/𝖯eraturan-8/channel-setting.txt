@@ -1,0 +1,30 @@
+Channel name:
+
+𝖯eraturan-8
+
+
+Channel description:
+
+Jaga diri anda
+
+
+Slowmode:
+
+Off
+
+
+NSFW Channel:
+
+Off
+
+
+Announcement Channel:
+
+Off
+
+
+Permissions:
+
+Sync permission with category first, and then change:
+Set to enable View Channel, Send Messages, Read Message History for the role related to those who choose to agree to Malay (Rumi) rule 7
+

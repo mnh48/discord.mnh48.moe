@@ -1,0 +1,30 @@
+Channel name:
+
+𝖯eraturan-2
+
+
+Channel description:
+
+Jangan salahguna
+
+
+Slowmode:
+
+Off
+
+
+NSFW Channel:
+
+Off
+
+
+Announcement Channel:
+
+Off
+
+
+Permissions:
+
+Sync permission with category first, and then change:
+Set to enable View Channel, Send Messages, Read Message History for the role related to those who choose to agree to Malay (Rumi) rule 1
+
