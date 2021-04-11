@@ -1,0 +1,31 @@
+Channel name:
+
+l
+
+
+Channel description:
+
+⁘ Popup for new users 
+⁘ Tetingkap timbul untuk pengguna baharu 
+⁘ تتيڠکڤ تيمبول اونتوق ڤڠݢونا بهارو
+
+
+Slowmode:
+
+Off
+
+
+NSFW Channel:
+
+Off
+
+
+Announcement Channel:
+
+Off
+
+
+Permissions:
+
+Permissions synced with category: ～
+

@@ -1,0 +1,32 @@
+Channel name:
+
+ll
+
+
+Channel description:
+
+⁘ Choose language 
+⁘ Pilih bahasa 
+⁘ ڤيليه بهاس
+
+
+Slowmode:
+
+Off
+
+
+NSFW Channel:
+
+Off
+
+
+Announcement Channel:
+
+Off
+
+
+Permissions:
+
+Sync permission with category first, and then change:
+Set @everyone to enable View Channel, Send Messages, Read Message History
+

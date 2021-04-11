@@ -1,0 +1,25 @@
+Category name:
+
+～
+
+
+Permissions:
+
+[Roles]
+Nadeko: View Channels, Send Messages, Manage Massages, Read Message History
+carl-bot: Disable all
+Dyno: Disable all
+Bot: Disable all
+Tatsumaki: Disable all
+Nana: Disable all
+Verified: Disable all
+@everyone: Disable all
+
+[Members]
+Carl-bot: Disable all
+Dyno: Disable all
+Fredboat: Disable all
+Nadeko: View Channels, Send Messages, Manage Massages, Read Message History
+Nana: Disable all
+Tatsu: Disable all
+
