@@ -9,6 +9,8 @@ Saya hanya benarkan bahasa berikut di pelayan ini:
 - Bahasa Jepun
 - Bahasa Indonesia
 
+Hal ini kerana saya hanya memahami bahasa yang dinyatakan dan saya juga perlu mengawal sembang di pelayan ini.
+
 Jika anda bersetuju dengan peraturan tersebut dan ingin teruskan, salin dan tampal tulisan di bawah:
 
 <random 128 character text>
