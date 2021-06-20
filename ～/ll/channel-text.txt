@@ -1,3 +1,8 @@
+_ _
+<channel image 01>
+
+
+_ _
 __English__ :flag_gb: :flag_us: :flag_au: :flag_eu: :united_nations:
 
 Welcome to The MNH48 Discord server!
@@ -7,7 +12,10 @@ To continue in English, please copy the exact text below, and send it in chat he
 <random 128 character text>
 
 _ _
+_ _
+<channel image 02>
 
+_ _
 __Bahasa Melayu (Rumi)__ :flag_my: :flag_bn: :flag_sg: :flag_id: :flag_th: :flag_cc: :flag_cx:
 
 Selamat datang ke pelayan The MNH48 Discord (di em.en.ec forti.eikt dis.kord)!
@@ -16,8 +24,12 @@ Untuk teruskan dalam bahasa Melayu tulisan Rumi, sila salin tulisan di bawah, da
 
 <random 128 character text>
 
-_ _
 
+_ _
+_ _
+<channel image 03>
+
+_ _
 __بهاس ملايو (جاوي)__ :flag_my: :flag_bn: :flag_sg: :flag_id: :flag_th: :flag_cc: :flag_cx:
 
 سلامت داتڠ کڤلاين The MNH48 Discord ‏(دي . عيم عين ايچ فورتي ايک‌ت . ديس کورد)!
