@@ -1,18 +1,27 @@
 _ _
 
-**RULE 5 - LANGUAGE RESTRICTIONS**
+
+<channel image>
+
+
+_ _
+
+
+
+**RULE 5 - LANGUAGE LIMITATION**
 
 I only allow the use of the following language in this server:
-- Malay (all dialects)
-- English (all dialects)
-- Chinese (Mandarin only, but both simplified and traditional characters are allowed)
-- Japanese
-- Indonesian
+- Malay (all dialects - in Rumi/Latin, Jawi/Arabic, Rejang & Beringin alphabets only)
+- English (all dialects - in Latin alphabet only)
+- Chinese (Mandarin only - in Simplified Han & Traditional Han only)
+- Japanese (standard dialect only - in Hiragana, Katakana & Kanji only)
+- Indonesian (standard dialect only - in Latin, Pegon/Arabic, Rejang & Beringin alphabets only)
 
 This is because I only understand the mentioned languages and I need to moderate the chats as well.
 
 If you agree with this rule and want to proceed, copy and paste the text below:
 
 <random 128 character text>
+
 
 _ _

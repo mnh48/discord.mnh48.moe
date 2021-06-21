@@ -1,5 +1,13 @@
 _ _
 
+
+<channel image>
+
+
+_ _
+
+
+
 **RULE 0 - ABIDE DISCORD'S TOS**
 
 Please read Discord's terms of service and follow the rules there, it could be found here:
@@ -10,5 +18,6 @@ If you do not agree with the terms, you should actually exit Discord right now. 
 If you agree with the terms and want to proceed, copy and paste the text below:
 
 <random 128 character text>
+
 
 _ _

@@ -1,11 +1,24 @@
 _ _
 
+
+<channel image>
+
+
+_ _
+
+
+
 **RULE 6 - PLEASE MARK SPOILERS WITHIN 3 MONTHS**
 
-If you want to discuss something that is just recently out in the country of origin, please spoiler it. "Recently" here is defined as three months from the first general screening date.
+If you want to discuss something that is just recently released in the country of origin, please spoiler it. "Recently" here is defined as three months from the first general screening date in the country of origin.
+
+If something is just recently released in your country when it has already been more than three months since it first released in the country of origin, it is not considered as spoiler anymore. We can't accommodate every single country's release.
+
+Translated release that have different context will be counted separately, for example if the English dub for Japanese anime has just been released when the original anime has already been released in Japanese in more than three months, then the general storyline will not be considered as spoiler, but the specific discussions related to the translation need to be spoilered, such as the criticism of the voice actor, the accuracies of translation, the censorship in the translated version, etc. The same goes for Malay translation of Japanese manga, and other language translation of any other media.
 
 If you agree with this rule and want to proceed, copy and paste the text below:
 
 <random 128 character text>
+
 
 _ _
