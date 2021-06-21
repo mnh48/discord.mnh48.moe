@@ -1,5 +1,13 @@
 _ _
 
+
+<channel image>
+
+
+_ _
+
+
+
 **PERATURAN 2 - JANGAN SALAHGUNA**
 
 JANGAN salahguna pelayan untuk kegunaan peribadi, atau mengganggu pengguna lain, terutamanya untuk tujuan:
@@ -15,5 +23,6 @@ JANGAN salahguna pelayan untuk kegunaan peribadi, atau mengganggu pengguna lain,
 Jika anda bersetuju dengan peraturan tersebut dan ingin teruskan, salin dan tampal tulisan di bawah:
 
 <random 128 character text>
+
 
 _ _

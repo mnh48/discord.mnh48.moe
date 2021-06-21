@@ -1,18 +1,27 @@
 _ _
 
+
+<channel image>
+
+
+_ _
+
+
+
 **PERATURAN 5 - PENGEHADAN BAHASA**
 
 Saya hanya benarkan bahasa berikut di pelayan ini:
-- Bahasa Melayu (semua loghat)
-- Bahasa Inggeris (semua loghat)
-- Bahasa Cina (Mandarin sahaja, tapi kedua-dua aksara ringkas dan tradisional dibenarkan)
-- Bahasa Jepun
-- Bahasa Indonesia
+- Bahasa Melayu (semua loghat - dalam tulisan Rumi, Jawi, Rejang & Beringin sahaja)
+- Bahasa Inggeris (semua loghat - dalam tulisan Rumi sahaja)
+- Bahasa Cina (Mandarin sahaja - dalam tulisan Cina Ringkas & Cina Tradisional sahaja)
+- Bahasa Jepun (loghat piawai sahaja - dalam tulisan Hiragana, Katakana & Kanji sahaja)
+- Bahasa Indonesia (loghat piawai sahaja - dalam tulisan Rumi, Pegon, Rejang & Beringin sahaja)
 
 Hal ini kerana saya hanya memahami bahasa yang dinyatakan dan saya juga perlu mengawal sembang di pelayan ini.
 
 Jika anda bersetuju dengan peraturan tersebut dan ingin teruskan, salin dan tampal tulisan di bawah:
 
 <random 128 character text>
+
 
 _ _
