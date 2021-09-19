@@ -15,7 +15,7 @@ _ _
 JANGAN salah guna pelayan untuk kegunaan peribadi, atau mengganggu pengguna lain, terutamanya untuk tujuan:
 - Menyebarkan mesej / kata-kata kebencian
 - Menyebarkan ideologi berfikiran tertutup
-- Menyebarkan maklumat palsu (sila nyatakan sumber apabila mengepos berita)
+- Menyebarkan maklumat palsu (sila nyatakan sumber apabila menghantar berita)
 - Menyalahgunakan ping `@everyοne` atau `@here`
 - Menyalahgunakan perintah / sembang / mesej / benaman dengan mengespam mereka
 - Mengetrol secara berlebihan
