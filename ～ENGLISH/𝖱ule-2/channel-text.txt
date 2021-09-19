@@ -1,7 +1,9 @@
 _ _
 
 
+
 <channel image>
+
 
 
 _ _
@@ -22,7 +24,10 @@ DO NOT abuse the server for your own use, or abuse other users, especially for:
 
 If you agree with this rule and want to proceed, copy and paste the text below:
 
+
+
 <random 128 character text>
+
 
 
 _ _

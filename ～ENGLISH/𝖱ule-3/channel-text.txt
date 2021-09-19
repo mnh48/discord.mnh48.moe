@@ -1,7 +1,9 @@
 _ _
 
 
+
 <channel image>
+
 
 
 _ _
@@ -18,7 +20,10 @@ Breast by itself is okay, but nipple areola must be covered. This applies to all
 
 If you agree with this rule and want to proceed, copy and paste the text below:
 
+
+
 <random 128 character text>
+
 
 
 _ _

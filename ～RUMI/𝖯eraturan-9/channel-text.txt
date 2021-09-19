@@ -1,7 +1,9 @@
 _ _
 
 
+
 <channel image>
+
 
 
 _ _
@@ -14,7 +16,10 @@ Dengan menyertai pelayan ini, anda bersetuju bahawa segala sembang anda dilogkan
 
 Jika anda bersetuju dengan peraturan tersebut dan ingin teruskan, salin dan tampal tulisan di bawah:
 
+
+
 <random 128 character text>
+
 
 
 _ _

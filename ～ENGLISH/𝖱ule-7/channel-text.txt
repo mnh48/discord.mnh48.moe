@@ -1,7 +1,9 @@
 _ _
 
 
+
 <channel image>
+
 
 
 _ _
@@ -14,7 +16,10 @@ I don't prohibit you from sharing anything you made, so long it's in the correct
 
 If you agree with this rule and want to proceed, copy and paste the text below:
 
+
+
 <random 128 character text>
+
 
 
 _ _

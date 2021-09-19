@@ -1,7 +1,9 @@
 _ _
 
 
+
 <channel image>
+
 
 
 _ _
@@ -22,7 +24,10 @@ JANGAN salah guna pelayan untuk kegunaan peribadi, atau mengganggu pengguna lain
 
 Jika anda bersetuju dengan peraturan tersebut dan ingin teruskan, salin dan tampal tulisan di bawah:
 
+
+
 <random 128 character text>
+
 
 
 _ _

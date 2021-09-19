@@ -1,7 +1,9 @@
 _ _
 
 
+
 <channel image>
+
 
 
 _ _
@@ -14,7 +16,10 @@ By joining this server, you agree that all of your conversations are logged, and
 
 If you agree with this rule and want to proceed, copy and paste the text below:
 
+
+
 <random 128 character text>
+
 
 
 _ _

@@ -1,7 +1,9 @@
 _ _
 
 
+
 <channel image>
+
 
 
 _ _
@@ -11,14 +13,17 @@ _ _
 **PERATURAN 0 - IKUT TERMA DISCORD**
 
 Sila baca terma perkhidmatan Discord dan ikut peraturan yang dinyatakan, ia boleh dijumpai di sini:
-<https://discordapp.com/terms>
+<https://discord.com/terms>
 (bahasa Inggeris sahaja buat masa ini)
 
 Sekiranya anda tidak bersetuju dengan terma tersebut, anda patut keluar daripada Discord sekarang juga. Anda mesti bersetuju dengannya untuk menggunakan Discord itu sendiri, apatah lagi untuk menyertai pelayan ini.
 
 Jika anda bersetuju dengan terma tersebut dan ingin teruskan, salin dan tampal tulisan di bawah:
 
+
+
 <random 128 character text>
+
 
 
 _ _
