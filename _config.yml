@@ -1,1 +1,28 @@
-theme: jekyll-theme-midnight
+title: The MNH48 Discord
+description: "Where am I on Discord? / Di manakah saya dalam Discord? / دماناکه ساي دالم ديسکورد؟"
+twitter_username: yayamnh48
+github_username: mnh48
+timezone: Asia/Kuala_Lumpur
+remote_theme: mnh48/mnh48moe-theme
+
+mnh48:
+    picture: https://gravatar.com/avatar/75137565e1f032813be0b53122547ba7?s=200
+    twitter: yayamnh48
+
+plugins:
+    - jekyll-redirect-from
+    - jemoji
+    - jekyll-mentions
+    - jekyll-remote-theme
+
+markdown: kramdown
+kramdown:
+  extensions:
+    - no_intra_emphasis
+    - fenced_code_blocks
+    - autolink
+    - tables
+    - strikethrough
+    - superscript
+    - with_to_data
+

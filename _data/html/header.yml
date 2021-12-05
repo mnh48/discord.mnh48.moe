@@ -1,0 +1,40 @@
+en:
+  domain: en
+  webtitle: MNH48 Discord
+  pagetitle: General information of Discord circles of MNH48.
+  backtext: ← Back
+ms:
+  domain: ms
+  webtitle: Discord MNH48
+  pagetitle: Maklumat am mengenai lingkungan Discord MNH48.
+  backtext: ← Kembali
+ms-Arab:
+  domain: jawi
+  webtitle: ديسکورد MNH48
+  pagetitle: معلومت عام مڠناٴي ليڠکوڠن ديسکورد MNH48.
+  backtext: → کمبالي
+ms-Rjng:
+  domain: rjng
+  webtitle: ꤴꥇꤼ꥓ꤰꥋꥑꤴ꥓ MNH48
+  pagetitle: ꤸꤰ꥓ꤾꥈꤸꤳ꥓ ꥆꤸ꥓ ꤸꥍꤲꥍꤵꥆꥇ ꤾꥇꥏꤰꥈꤲꥐ ꤴꥇꤼ꥓ꤰꥋꥑꤴ꥓ MNH48.
+  backtext: ← ꤰꥍꤸ꥓ꤷꤾꥇ
+ja:
+  domain: jpn
+  webtitle: MNH48 DISCORD
+  pagetitle: MNH48さんのDISCORDサークルのお話です。
+  backtext: ←　返る
+zh-Hans:
+  domain: chn
+  webtitle: MNH48 DISCORD
+  pagetitle: 关于MNH48的DISCORD圈。
+  backtext: ← 返回
+zh-Hant:
+  domain: twn
+  webtitle: MNH48 DISCORD
+  pagetitle: 關於MNH48的DISCORD圈。
+  backtext: ← 返回
+mul:
+  domain: www
+  webtitle: MNH48 DISCORD
+  pagetitle: <span dir="rtl" lang="ms-Arab">ديسکورد MNH48</span> - <span lang="ms-Rjng">ꤴꥇꤼ꥓ꤰꥋꥑꤴ꥓ MNH48</span>
+  backtext: ←
