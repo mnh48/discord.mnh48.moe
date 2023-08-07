@@ -1,6 +1,6 @@
 ---
 lang: en
 layout: redirect
-redirectname: the invite page of The MNH48 Discord
-redirecturl: https://discord.gg/xsZQyGf
+redirectname: the invite page of {{ site.discord.name }}
+redirecturl: {{ site.discord.url }}
 ---

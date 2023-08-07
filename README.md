@@ -1,24 +1,24 @@
-# The MNH48 Discord
+# Yatsuko Koumuten MNH48
 
 ## What are these? / Apakah benda ini? / اڤاکه بندا اين؟ / ꥆꤶꤰ ꤷꥍꥐꤴ ꥆꥇꤵꥇ꥟
 
-These are the backup of the raw files used in setting up The MNH48 Discord server.<br />
+These are the backup of the raw files used in setting up Yatsuko Koumuten MNH48 (Menechiyoppa), the Discord server of Yaya MNH48.<br />
 These might also be useful for other people who want to setup their Discord server in the same way as I did.
 <br /><br />
 <div lang="ms">
   <i>
-    Ini semua fail sandaran bagi kesemua fail asal yang digunakan untuk menetapkan pelayan The MNH48 Discord (di ém-én-éc-forti-éikt dis-kord).<br/>
+    Ini semua fail sandaran bagi kesemua fail asal yang digunakan untuk menetapkan Yatsuko Koumuten MNH48 (Menechiyoppa), pelayan Discord milik Yaya MNH48.<br/>
     Ini semua mungkin berguna untuk orang lain yang ingin menetapkan pelayan Discord mereka dalam cara yang sama dengan apa saya lakukan.
   </i>
 </div>
 <br /><br />
 <div lang="ms-Arab" dir="rtl">
-  اين سموا فاٴيل سندرن باݢي کسموا فاٴيل اصل يڠ دݢوناکن اونتوق منتڤکن ڤلاين The MNH48 Discord (دي . عيم عين عيچ فورتي عيکت . ديس کورد).<br/>
+  اين سموا فاٴيل سندرن باݢي کسموا فاٴيل اصل يڠ دݢوناکن اونتوق منتڤکن ڤلاين Yatsuko Koumuten MNH48 (ياثوکو کوٴوموتين مينيچي‌يوٴڤا)⹁ ڤلاين ديسکورد ميليق يايا MNH48 (مينيچي‌يوٴڤا).<br/>
   اين سموا موڠکين برݢونا اونتوق اورڠ لاٴين يڠ ايڠين منتڤکن ڤلاين ديسکورد مريک دالم چارا يڠ سام دڠن اڤ ساي لاکوکن.
 </div>
 <br /><br />
 <div lang="ms-Rjng">
-  ꥆꥇꤵꥇ ꤼꥍꤸꥈꥀ ꥁꥆꥇꤾ꥓ ꤼꥐꤴꥑꤽꥐ ꤷꤱꥊ ꤰꥍꤼꥍꤸꥈꥀ ꥁꥆꥇꤾ꥓ ꥆꤼꤾ꥓ ꤿꥏ ꤴꥇꤱꥈꤵꤰꥐ ꥆꥈꥐꤳꥈꥒ ꤸꥍꤵꥍꤳꤶ꥓ꤰꥐ ꤶꥍꤾꤿꥐ The MNH48 Discord (ꤴꥇ ꥆꥉꤸ꥓ ꥆꥉꥐ ꥆꥉꤹ꥓ ꤲꥋꥑꤳꥇ ꥆꥉꤰ꥓ꤳ꥓ ꤴꥇꤼ꥓ꤰꥋꤽ꥓ꤴ꥓)꥟<br/>
+  ꥆꥇꤵꥇ ꤼꥍꤸꥈꥀ ꥁꥆꥇꤾ꥓ ꤼꥐꤴꥑꤽꥐ ꤷꤱꥊ ꤰꥍꤼꥍꤸꥈꥀ ꥁꥆꥇꤾ꥓ ꥆꤼꤾ꥓ ꤿꥏ ꤴꥇꤱꥈꤵꤰꥐ ꥆꥈꥐꤳꥈꥒ ꤸꥍꤵꥍꤳꤶ꥓ꤰꥐ ꤶꥍꤾꤿꥐ Yatsuko Koumuten MNH48 (ꤿꤳ꥓ꤼꥈꤰꥋ ꤰꥋꥆꥈꤸꥈꤳꥉꥐ ꤸꥉꤵꥉꤹꥇꤿꥋꤶ꥓ꤶ), ꤶꥍꤾꤿꥐ ꤴꥇꤼ꥓ꤰꥋꥑꤴ꥓ ꤸꥇꤾꥇꤰ꥓ ꤿꤿ ꤸꥉꤵꥉꤹꥇꤿꥋꤶ꥓ꤶ<br/>
   ꥆꥇꤵꥇ ꤼꥍꤸꥈꥀ ꤸꥈꥏꤰꥇꥐ ꤷꥍꥑꤱꥈꤵ ꥆꥈꥐꤳꥈꥒ ꥆꥋꤽꥏ ꤾꥊꥐ ꤿꥏ ꥆꥇꤲꥇꥐ ꤸꥍꤵꥍꤳꤶ꥓ꤰꥐ ꤶꥍꤾꤿꥐ ꤴꥇꤼ꥓ꤰꥋꤽ꥓ꤴ꥓ ꤸꥍꤽꥉꤰ ꤴꤾꤸ꥓ ꤹꤽ ꤿꥏ ꤼꤸ ꤴꥍꤲꥐ ꥆꤶ ꤼꤿ ꤾꤰꥈꤰꥐ꥟
 </div>
 

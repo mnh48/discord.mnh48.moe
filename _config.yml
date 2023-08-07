@@ -1,19 +1,36 @@
 title: The MNH48 Discord
 description: "Where am I on Discord? / Di manakah saya dalam Discord? / دماناکه ساي دالم ديسکورد؟"
+owner_name: MNH48
 twitter_username: yayamnh48
 github_username: mnh48
+youtube_link: https://www.youtube.com/@mnh48
 timezone: Asia/Kuala_Lumpur
+repository: mnh48/discord.mnh48.moe
 remote_theme: mnh48/mnh48moe-theme
 
+homepage:
+  name: MNH48.moe
+  wwwurl: www.mnh48.moe
+  url: mnh48.moe
+
+blog:
+  name: MNH48.com
+  wwwurl: www.mnh48.com
+  url: mnh48.com
+
 mnh48:
-    picture: https://gravatar.com/avatar/75137565e1f032813be0b53122547ba7?s=200
-    twitter: yayamnh48
+  picture: https://img.mnh48.moe/yaya/yaya-192.png
+  twitter: yayamnh48
+
+discord:
+  name: Yatsuko Koumuten MNH48
+  url: https://discord.gg/xsZQyGf
 
 plugins:
-    - jekyll-redirect-from
-    - jemoji
-    - jekyll-mentions
-    - jekyll-remote-theme
+  - jekyll-redirect-from
+  - jemoji
+  - jekyll-mentions
+  - jekyll-remote-theme
 
 markdown: kramdown
 kramdown:
